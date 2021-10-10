@@ -10,7 +10,8 @@ Cohort 1
 
    __Student_TODO:__
 
- In five years, I want to attend a lot of training technologies programs. I would be on the fast track to becoming a Apps Developer or Blockchain Manager. That’s my top career goal. Plus, my ideal path would include working abroad for a couple of years.
+     In five years, I want to attend a lot of training technologies programs. I would be on the fast track to becoming a Apps Developer or Blockchain Manager.    
+     That’s my top career goal. Plus, my ideal path would include working abroad for a couple of years.
   
 
 ### Student mini-CV:
